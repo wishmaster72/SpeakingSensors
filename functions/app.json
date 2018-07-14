@@ -1,5 +1,5 @@
 {
-    "name": "esp32sensors1",
+    "name": "testrpm",
     "description": "Webhook echo sample",
     "repository": "https://github.com/wishmaster72/SpeakingSensors.git",
     "keywords": ["api.ai", "dialogflow", "natural language"]
